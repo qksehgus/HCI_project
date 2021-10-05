@@ -1,0 +1,14 @@
+C:\Users\qkseh\Desktop\project\Project_HCI\bin\Release\Project_HCI.exe.config
+C:\Users\qkseh\Desktop\project\Project_HCI\bin\Release\Project_HCI.exe
+C:\Users\qkseh\Desktop\project\Project_HCI\bin\Release\Project_HCI.pdb
+C:\Users\qkseh\Desktop\project\Project_HCI\obj\Release\Project_HCI.찾기.resources
+C:\Users\qkseh\Desktop\project\Project_HCI\obj\Release\Project_HCI.Form1.resources
+C:\Users\qkseh\Desktop\project\Project_HCI\obj\Release\Project_HCI.Form2.resources
+C:\Users\qkseh\Desktop\project\Project_HCI\obj\Release\Project_HCI.Form3.resources
+C:\Users\qkseh\Desktop\project\Project_HCI\obj\Release\Project_HCI.help.resources
+C:\Users\qkseh\Desktop\project\Project_HCI\obj\Release\Project_HCI.Properties.Form1.resources
+C:\Users\qkseh\Desktop\project\Project_HCI\obj\Release\Project_HCI.Properties.Resources.resources
+C:\Users\qkseh\Desktop\project\Project_HCI\obj\Release\Project_HCI.csproj.GenerateResource.cache
+C:\Users\qkseh\Desktop\project\Project_HCI\obj\Release\Project_HCI.csproj.CoreCompileInputs.cache
+C:\Users\qkseh\Desktop\project\Project_HCI\obj\Release\Project_HCI.exe
+C:\Users\qkseh\Desktop\project\Project_HCI\obj\Release\Project_HCI.pdb
